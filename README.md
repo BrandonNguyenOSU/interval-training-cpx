@@ -22,13 +22,20 @@ Upon winning, the game is reset to start-up
 
 
 Inputs:
+
 Switch - Turns game on and off. Can also be used to reset game.
+
 Left Button - Selects highlighted LED. Progresses game to next level.
+
 Right Button - Moves highlighted LED from left to right.
 
 Outputs:
-LEDs - Represent number of correctly identified intervals
+
+LEDs 
+- Represent number of correctly identified intervals
 - Represent highlighted interval to select
 - Play animations for correct, incorrect, and winning events
-Sound - Plays intervals to be identified on each level
+
+Sound 
+- Plays intervals to be identified on each level
 - Plays song when the game is won
